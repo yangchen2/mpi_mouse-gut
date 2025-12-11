@@ -8,18 +8,18 @@ sample_number	sample_name	date_submit	project	host	microbiome_type	experiment	tr
 7	01mpimousestool	20250701	skin-gut	mouse	stool	Em19	Control	Em19 mouse stool
 8	02mpimousestool	20250701	skin-gut	mouse	stool	Em19	Vancomycin	Em19 mouse stool
 9	03mpimousestool	20250701	skin-gut	mouse	stool	Em19	Vancomycin	Em19 mouse stool
-10	04mpimousestool	20250701	skin-gut	mouse	stool	Em19	DSS	Em19 + MC mouse stool
-11	01MPI2	20250818	EM23	mouse	stool	Em23	IMQ	Em19 + MC mouse stool
-12	02MPI2	20250818	EM23	mouse	stool	Em23	Control	Em19 + MC mouse stool
-13	03MPI2	20250818	EM23	mouse	stool	Em23	DSS donor (7d wo DSS)	Em19 + MC mouse stool
-14	06MPI2	20250818	EM23	mouse	stool	Em23	DSS	Em19 + MC mouse stool
-15	07MPI2	20250818	EM23	mouse	stool	Em23	DSS donor (7d wo DSS)	Em19 + MC mouse stool
-16	13MPI2	20250818	EM23	mouse	stool	Em23	Control	Em19 + MC mouse stool
-17	16MPI2	20250818	EM23	mouse	stool	Em23	GF > FMT Control	Em19 + MC mouse stool
-18	17MPI2	20250818	EM23	mouse	stool	Em23	GF > FMT Control	Em19 + MC mouse stool
-19	18MPI2	20250818	EM23	mouse	stool	Em23	GF > FMT DSS	Em19 + MC mouse stool
-20	19MPI2	20250818	EM23	mouse	stool	Em23	GF > FMT DSS	Em19 + MC mouse stool
-21	21MPI2	20250818	EM23	mouse	stool	Em23	GF Control no FMT	Em19 + MC mouse stool
-22	22MPI2	20250818	EM23	mouse	stool	Em23	GF DSS no FMT	Em19 + MC mouse stool
-23	26MPI2	20250818	MC	mouse	stool	MC	IMQ	Em19 + MC mouse stool
-24	27MPI2	20250818	MC	mouse	stool	MC	Adrenectomy + IMQ	Em19 + MC mouse stool
+10	04mpimousestool	20250701	skin-gut	mouse	stool	Em19	DSS	Em19 mouse stool
+11	01MPI2	20250818	EM23	mouse	stool	Em23	IMQ	Em23 + MC mouse stool
+12	02MPI2	20250818	EM23	mouse	stool	Em23	Control	Em23 + MC mouse stool
+13	03MPI2	20250818	EM23	mouse	stool	Em23	DSS donor (7d wo DSS)	Em23 + MC mouse stool
+14	06MPI2	20250818	EM23	mouse	stool	Em23	DSS	Em23 + MC mouse stool
+15	07MPI2	20250818	EM23	mouse	stool	Em23	DSS donor (7d wo DSS)	Em23 + MC mouse stool
+16	13MPI2	20250818	EM23	mouse	stool	Em23	Control	Em23 + MC mouse stool
+17	16MPI2	20250818	EM23	mouse	stool	Em23	GF > FMT Control	Em23 + MC mouse stool
+18	17MPI2	20250818	EM23	mouse	stool	Em23	GF > FMT Control	Em23 + MC mouse stool
+19	18MPI2	20250818	EM23	mouse	stool	Em23	GF > FMT DSS	Em23 + MC mouse stool
+20	19MPI2	20250818	EM23	mouse	stool	Em23	GF > FMT DSS	Em23 + MC mouse stool
+21	21MPI2	20250818	EM23	mouse	stool	Em23	GF Control no FMT	Em23 + MC mouse stool
+22	22MPI2	20250818	EM23	mouse	stool	Em23	GF DSS no FMT	Em23 + MC mouse stool
+23	26MPI2	20250818	MC	mouse	stool	MC	IMQ	Em23 + MC mouse stool
+24	27MPI2	20250818	MC	mouse	stool	MC	Adrenectomy + IMQ	Em23 + MC mouse stool
