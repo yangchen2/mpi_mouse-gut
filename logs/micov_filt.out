@@ -1,0 +1,78 @@
+==============================================================
+[Wed Dec 10 15:48:37 PST 2025] Starting micov_filt
+==============================================================
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/1_228413_gOTU.biom
+
+[INFO] Applying micov threshold: >1%
+[INFO] 480 genome_ids matched out of 480 above 1%.
+[INFO] Filtered table size: 480 features x 24 samples.
+[INFO] Saved filtered BIOM: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov1%.biom
+
+[INFO] Applying micov threshold: >5%
+[INFO] 130 genome_ids matched out of 130 above 5%.
+[INFO] Filtered table size: 130 features x 24 samples.
+[INFO] Saved filtered BIOM: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov5%.biom
+
+[INFO] Applying micov threshold: >10%
+[INFO] 82 genome_ids matched out of 82 above 10%.
+[INFO] Filtered table size: 82 features x 24 samples.
+[INFO] Saved filtered BIOM: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov10%.biom
+
+[INFO] Applying micov threshold: >20%
+[INFO] 65 genome_ids matched out of 65 above 20%.
+[INFO] Filtered table size: 65 features x 24 samples.
+[INFO] Saved filtered BIOM: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov20%.biom
+
+[INFO] Applying micov threshold: >25%
+[INFO] 60 genome_ids matched out of 60 above 25%.
+[INFO] Filtered table size: 60 features x 24 samples.
+[INFO] Saved filtered BIOM: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov25%.biom
+
+[INFO] Applying micov threshold: >30%
+[INFO] 56 genome_ids matched out of 56 above 30%.
+[INFO] Filtered table size: 56 features x 24 samples.
+[INFO] Saved filtered BIOM: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov30%.biom
+
+[INFO] Applying micov threshold: >40%
+[INFO] 53 genome_ids matched out of 53 above 40%.
+[INFO] Filtered table size: 53 features x 24 samples.
+[INFO] Saved filtered BIOM: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov40%.biom
+
+[INFO] Applying micov threshold: >50%
+[INFO] 51 genome_ids matched out of 51 above 50%.
+[INFO] Filtered table size: 51 features x 24 samples.
+[INFO] Saved filtered BIOM: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov50%.biom
+
+[INFO] Applying micov threshold: >60%
+[INFO] 45 genome_ids matched out of 45 above 60%.
+[INFO] Filtered table size: 45 features x 24 samples.
+[INFO] Saved filtered BIOM: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov60%.biom
+
+[INFO] Applying micov threshold: >70%
+[INFO] 39 genome_ids matched out of 39 above 70%.
+[INFO] Filtered table size: 39 features x 24 samples.
+[INFO] Saved filtered BIOM: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov70%.biom
+
+[INFO] Applying micov threshold: >75%
+[INFO] 35 genome_ids matched out of 35 above 75%.
+[INFO] Filtered table size: 35 features x 24 samples.
+[INFO] Saved filtered BIOM: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov75%.biom
+
+[INFO] Applying micov threshold: >80%
+[INFO] 28 genome_ids matched out of 28 above 80%.
+[INFO] Filtered table size: 28 features x 24 samples.
+[INFO] Saved filtered BIOM: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov80%.biom
+
+[INFO] Applying micov threshold: >90%
+[INFO] 10 genome_ids matched out of 10 above 90%.
+[INFO] Filtered table size: 10 features x 24 samples.
+[INFO] Saved filtered BIOM: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov90%.biom
+
+[INFO] Applying micov threshold: >95%
+[INFO] 6 genome_ids matched out of 6 above 95%.
+[INFO] Filtered table size: 6 features x 24 samples.
+[INFO] Saved filtered BIOM: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov95%.biom
+
+[INFO] All thresholds complete.
+[Wed Dec 10 15:48:45 PST 2025] Finished micov_filt
+==============================================================

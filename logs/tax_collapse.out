@@ -1,0 +1,170 @@
+==============================================================
+[Wed Dec 10 15:52:10 PST 2025] Starting taxonomy mapping and collapse
+==============================================================
+[INFO] Processing 2_228413_gOTU_micov10%
+[INFO] Loading taxonomy from /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/reference/WoLr2.tax
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov10%.biom
+[INFO] Creating gOTU species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov10%_gOTU_species.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov10%_gOTU_genus.biom
+[INFO] Creating collapsed species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov10%_species_collapsed.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov10%_genus_collapsed.biom
+[INFO] Completed processing 2_228413_gOTU_micov10%
+============================================================
+[INFO] Processing 2_228413_gOTU_micov15%
+[INFO] Loading taxonomy from /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/reference/WoLr2.tax
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov15%.biom
+[INFO] Creating gOTU species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov15%_gOTU_species.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov15%_gOTU_genus.biom
+[INFO] Creating collapsed species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov15%_species_collapsed.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov15%_genus_collapsed.biom
+[INFO] Completed processing 2_228413_gOTU_micov15%
+============================================================
+[INFO] Processing 2_228413_gOTU_micov1%
+[INFO] Loading taxonomy from /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/reference/WoLr2.tax
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov1%.biom
+[INFO] Creating gOTU species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov1%_gOTU_species.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov1%_gOTU_genus.biom
+[INFO] Creating collapsed species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov1%_species_collapsed.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov1%_genus_collapsed.biom
+[INFO] Completed processing 2_228413_gOTU_micov1%
+============================================================
+[INFO] Processing 2_228413_gOTU_micov20%
+[INFO] Loading taxonomy from /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/reference/WoLr2.tax
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov20%.biom
+[INFO] Creating gOTU species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov20%_gOTU_species.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov20%_gOTU_genus.biom
+[INFO] Creating collapsed species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov20%_species_collapsed.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov20%_genus_collapsed.biom
+[INFO] Completed processing 2_228413_gOTU_micov20%
+============================================================
+[INFO] Processing 2_228413_gOTU_micov25%
+[INFO] Loading taxonomy from /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/reference/WoLr2.tax
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov25%.biom
+[INFO] Creating gOTU species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov25%_gOTU_species.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov25%_gOTU_genus.biom
+[INFO] Creating collapsed species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov25%_species_collapsed.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov25%_genus_collapsed.biom
+[INFO] Completed processing 2_228413_gOTU_micov25%
+============================================================
+[INFO] Processing 2_228413_gOTU_micov30%
+[INFO] Loading taxonomy from /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/reference/WoLr2.tax
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov30%.biom
+[INFO] Creating gOTU species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov30%_gOTU_species.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov30%_gOTU_genus.biom
+[INFO] Creating collapsed species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov30%_species_collapsed.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov30%_genus_collapsed.biom
+[INFO] Completed processing 2_228413_gOTU_micov30%
+============================================================
+[INFO] Processing 2_228413_gOTU_micov40%
+[INFO] Loading taxonomy from /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/reference/WoLr2.tax
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov40%.biom
+[INFO] Creating gOTU species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov40%_gOTU_species.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov40%_gOTU_genus.biom
+[INFO] Creating collapsed species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov40%_species_collapsed.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov40%_genus_collapsed.biom
+[INFO] Completed processing 2_228413_gOTU_micov40%
+============================================================
+[INFO] Processing 2_228413_gOTU_micov50%
+[INFO] Loading taxonomy from /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/reference/WoLr2.tax
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov50%.biom
+[INFO] Creating gOTU species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov50%_gOTU_species.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov50%_gOTU_genus.biom
+[INFO] Creating collapsed species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov50%_species_collapsed.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov50%_genus_collapsed.biom
+[INFO] Completed processing 2_228413_gOTU_micov50%
+============================================================
+[INFO] Processing 2_228413_gOTU_micov5%
+[INFO] Loading taxonomy from /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/reference/WoLr2.tax
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov5%.biom
+[INFO] Creating gOTU species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov5%_gOTU_species.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov5%_gOTU_genus.biom
+[INFO] Creating collapsed species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov5%_species_collapsed.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov5%_genus_collapsed.biom
+[INFO] Completed processing 2_228413_gOTU_micov5%
+============================================================
+[INFO] Processing 2_228413_gOTU_micov60%
+[INFO] Loading taxonomy from /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/reference/WoLr2.tax
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov60%.biom
+[INFO] Creating gOTU species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov60%_gOTU_species.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov60%_gOTU_genus.biom
+[INFO] Creating collapsed species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov60%_species_collapsed.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov60%_genus_collapsed.biom
+[INFO] Completed processing 2_228413_gOTU_micov60%
+============================================================
+[INFO] Processing 2_228413_gOTU_micov70%
+[INFO] Loading taxonomy from /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/reference/WoLr2.tax
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov70%.biom
+[INFO] Creating gOTU species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov70%_gOTU_species.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov70%_gOTU_genus.biom
+[INFO] Creating collapsed species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov70%_species_collapsed.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov70%_genus_collapsed.biom
+[INFO] Completed processing 2_228413_gOTU_micov70%
+============================================================
+[INFO] Processing 2_228413_gOTU_micov75%
+[INFO] Loading taxonomy from /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/reference/WoLr2.tax
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov75%.biom
+[INFO] Creating gOTU species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov75%_gOTU_species.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov75%_gOTU_genus.biom
+[INFO] Creating collapsed species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov75%_species_collapsed.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov75%_genus_collapsed.biom
+[INFO] Completed processing 2_228413_gOTU_micov75%
+============================================================
+[INFO] Processing 2_228413_gOTU_micov80%
+[INFO] Loading taxonomy from /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/reference/WoLr2.tax
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov80%.biom
+[INFO] Creating gOTU species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov80%_gOTU_species.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov80%_gOTU_genus.biom
+[INFO] Creating collapsed species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov80%_species_collapsed.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov80%_genus_collapsed.biom
+[INFO] Completed processing 2_228413_gOTU_micov80%
+============================================================
+[INFO] Processing 2_228413_gOTU_micov90%
+[INFO] Loading taxonomy from /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/reference/WoLr2.tax
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov90%.biom
+[INFO] Creating gOTU species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov90%_gOTU_species.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov90%_gOTU_genus.biom
+[INFO] Creating collapsed species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov90%_species_collapsed.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov90%_genus_collapsed.biom
+[INFO] Completed processing 2_228413_gOTU_micov90%
+============================================================
+[INFO] Processing 2_228413_gOTU_micov95%
+[INFO] Loading taxonomy from /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/reference/WoLr2.tax
+[INFO] Loading BIOM table: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/2_228413_gOTU_micov95%.biom
+[INFO] Creating gOTU species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov95%_gOTU_species.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov95%_gOTU_genus.biom
+[INFO] Creating collapsed species and genus tables...
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov95%_species_collapsed.biom
+[INFO] Saved: /ddn_scratch/yac027/05_gallo_metaG/4_post-qiita/mpi/tables/3_228413_gOTU_micov95%_genus_collapsed.biom
+[INFO] Completed processing 2_228413_gOTU_micov95%
+============================================================
+[Wed Dec 10 15:52:30 PST 2025] All taxonomy mapping and collapse completed
+==============================================================
